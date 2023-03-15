@@ -46,6 +46,7 @@ body {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     font-size: 16px;
+    background-color: #121214;
 }
 
 .main{
@@ -304,7 +305,7 @@ background-color: #0033FF;
 /* ----------------------------------sounds-------------------------------------- */
 
 .sounds {
-    background: #121214;
+    background-color: #121214;
 }
 .sounds__container {
     display: flex;
@@ -333,7 +334,7 @@ background-color: #0033FF;
 /* ---------------------------------/sounds-------------------------------------- */
 /* --------------------------------Experience------------------------------------ */
 .experience {
-    background: #121214;
+    background-color: #121214;
 }
 .experience__container {
     display: flex;
@@ -361,7 +362,7 @@ background-color: #0033FF;
 /* -----------------------------------Gear--------------------------------------- */
 
 .gear {
-    background: #121214;
+    background-color: #121214;
 }
 .gear__container {
     display: flex;
@@ -390,7 +391,7 @@ background-color: #0033FF;
 /* ----------------------------------/Gear--------------------------------------- */
 /* --------------------------------technology------------------------------------ */
 .technology {
-    background: #121214;
+    background-color: #121214;
 }
 .technology__container {
     display: flex;
@@ -421,7 +422,7 @@ background-color: #0033FF;
 /* ---------------------------------creators------------------------------------- */
 
 .creators {
-    background: #121214;
+    background-color: #121214;
     padding: 120px 0 120px;
 }
 .creators__container {
@@ -483,7 +484,7 @@ background-color: #0033FF;
 /* ----------------------------------try-it-------------------------------------- */
 
 .try-it {
-background: #000;
+background-color: #000;
 background: url(../img/site-img/try-it-bg.webp) no-repeat;
 background-size: cover;
 width: 100%;
@@ -581,11 +582,3 @@ width: 100%;
     fill: #ffffff;
 }
 /* ---------------------------------/footer-------------------------------------- */
-
-
-
-
-
-
-
-
